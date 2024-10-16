@@ -137,6 +137,7 @@ div#resume img {
     margin: 0;
   }
   img {
+    width: 500px;
     margin: 0;
     margin-bottom: -40px;
   }
