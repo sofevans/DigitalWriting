@@ -37,15 +37,6 @@ div#resume h2 span {
 div#resume p {
   margin: 0 0 16px 0;
 }
-div#resume a {
-  color: #999;
-  text-decoration: none;
-  border-bottom: 1px dotted #999;
-}
-div#resume a:hover {
-  border-bottom-style: solid;
-  color: #000;
-}
 div#resume p.objective {
   font-family: Georgia, serif;
   font-style: italic;
@@ -152,8 +143,3 @@ div#resume img {
   li {
     margin-right: 20px;
   }
-p {
-  border-style: solid;
-  border-width: medium;
-  border-radius: 5px;
-}
