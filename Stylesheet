@@ -148,3 +148,8 @@ div#resume img {
   li {
     margin-right: 20px;
   }
+p {
+  border-style: solid;
+  border-width: medium;
+  border-radius: 5px;
+}
